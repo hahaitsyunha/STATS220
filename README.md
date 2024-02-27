@@ -1,3 +1,3 @@
 # Hello!
 
-This is my GitHub page with all my work for Uni and any other endevours!
+I love STATS220! Haha!
