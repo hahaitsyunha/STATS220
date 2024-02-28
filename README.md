@@ -12,4 +12,4 @@ This repo is a demonstration of my understanding of Markdown! *I hope this isn't
 - I can type 100+ wpm in both QWERTY and Colemak-DH
 - I have voluntary nystagmus meaning I can control my eyeballs and make them shake
 
-![Cat Dancing](https://c.tenor.com/-s2C7XAa8J0AAAAd/tenor.gif)
+![](https://i.redd.it/uo9msjsnwi5c1.gif)
