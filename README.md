@@ -17,4 +17,6 @@ This repo is a demonstration of my understanding of Markdown! *I hope this isn't
 2. I started playing the piano at the age of 3
 3. I have 2 pet cats
 
-![](https://i.redd.it/uo9msjsnwi5c1.gif)
+Feel free to contact me on my [Facebook](https://www.facebook.com/yunha.kim.336/) to find out which one is the lie!
+
+![dancing cat](https://i.redd.it/uo9msjsnwi5c1.gif)
